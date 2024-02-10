@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Limited-Rsc
 - 👀 I’m interested game design and programming
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Java
 - 📫 How to reach me ...
 
 <!---
